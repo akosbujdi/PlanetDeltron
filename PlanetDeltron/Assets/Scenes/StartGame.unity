@@ -1021,7 +1021,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   target: {fileID: 153587905}
   trailDistance: 6
-  heightOffset: 5
+  heightOffset: 8
 --- !u!1 &1311834960
 GameObject:
   m_ObjectHideFlags: 0

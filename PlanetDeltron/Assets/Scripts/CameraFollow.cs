@@ -10,7 +10,7 @@ public class CameraFollow : MonoBehaviour
     public float trailDistance;
     public float heightOffset;
     // Smooth transition for camera at turns
-    private float cameraDelay = 0.02f;
+    private float cameraDelay = 0.1f;
 
     // Start is called before the first frame update
     void Start()
